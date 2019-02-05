@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\EventsDemo.EventsClient.resources
+obj\Debug\EventsDemo.csproj.GenerateResource.Cache
+bin\Debug\EventsDemo.exe
+bin\Debug\EventsDemo.pdb
+bin\Debug\WinFormsEx.dll
+bin\Debug\WinFormsEx.pdb
+obj\Debug\EventsDemo.exe
+obj\Debug\EventsDemo.pdb

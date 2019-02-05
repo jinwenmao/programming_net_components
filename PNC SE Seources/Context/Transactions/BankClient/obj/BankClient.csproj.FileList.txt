@@ -1,0 +1,11 @@
+bin\Debug\BankClient.exe.config
+bin\Debug\BankClient.exe
+bin\Debug\BankClient.pdb
+bin\Debug\BankAccountServer.dll
+bin\Debug\BankAccountServer.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TransactionDemo.BankClient.resources
+obj\Debug\TransactionDemo.Properties.Resources.resources
+obj\Debug\BankClient.csproj.GenerateResource.Cache
+obj\Debug\BankClient.exe
+obj\Debug\BankClient.pdb

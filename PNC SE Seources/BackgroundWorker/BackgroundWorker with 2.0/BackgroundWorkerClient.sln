@@ -1,0 +1,18 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackgroundWorkerClient", "BackgroundWorkerClient.csproj", "{D38A7694-263F-47CC-820B-0EDD4570B5F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D38A7694-263F-47CC-820B-0EDD4570B5F1}.Debug.ActiveCfg = Debug|.NET
+		{D38A7694-263F-47CC-820B-0EDD4570B5F1}.Debug.Build.0 = Debug|.NET
+		{D38A7694-263F-47CC-820B-0EDD4570B5F1}.Release.ActiveCfg = Release|.NET
+		{D38A7694-263F-47CC-820B-0EDD4570B5F1}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

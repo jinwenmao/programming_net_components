@@ -1,0 +1,5 @@
+bin\ServerAssembly.dll
+bin\ServerAssembly.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ServerAssembly.dll
+obj\Debug\ServerAssembly.pdb

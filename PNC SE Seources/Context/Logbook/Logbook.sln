@@ -1,0 +1,37 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestClient", "Logbook Client\TestClient.csproj", "{3BB7EA02-7FA3-4D5E-BDB1-2FBF1D374A5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContextLogger", "ContextLogger\ContextLogger.csproj", "{501B1A47-616D-4A90-A1E6-A0CAA8D899C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogbookHost", "LogbookHost\LogbookHost.csproj", "{B60B4AFA-8BF4-4F1E-9ADF-E3C305C10F19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogbookViewer", "LogbookViewer\LogbookViewer.csproj", "{580AA858-A041-4605-82CE-7A5E7855B732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BB7EA02-7FA3-4D5E-BDB1-2FBF1D374A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB7EA02-7FA3-4D5E-BDB1-2FBF1D374A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB7EA02-7FA3-4D5E-BDB1-2FBF1D374A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB7EA02-7FA3-4D5E-BDB1-2FBF1D374A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{501B1A47-616D-4A90-A1E6-A0CAA8D899C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501B1A47-616D-4A90-A1E6-A0CAA8D899C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501B1A47-616D-4A90-A1E6-A0CAA8D899C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501B1A47-616D-4A90-A1E6-A0CAA8D899C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B60B4AFA-8BF4-4F1E-9ADF-E3C305C10F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B60B4AFA-8BF4-4F1E-9ADF-E3C305C10F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B60B4AFA-8BF4-4F1E-9ADF-E3C305C10F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B60B4AFA-8BF4-4F1E-9ADF-E3C305C10F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{580AA858-A041-4605-82CE-7A5E7855B732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580AA858-A041-4605-82CE-7A5E7855B732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580AA858-A041-4605-82CE-7A5E7855B732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580AA858-A041-4605-82CE-7A5E7855B732}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

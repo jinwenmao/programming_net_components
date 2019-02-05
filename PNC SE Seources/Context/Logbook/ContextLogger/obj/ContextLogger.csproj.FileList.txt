@@ -1,0 +1,7 @@
+bin\Debug\ContextLogger.dll
+bin\Debug\ContextLogger.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\ContextLogger.Logbook.resources
+obj\Debug\ContextLogger.csproj.GenerateResource.Cache
+obj\Debug\ContextLogger.dll
+obj\Debug\ContextLogger.pdb

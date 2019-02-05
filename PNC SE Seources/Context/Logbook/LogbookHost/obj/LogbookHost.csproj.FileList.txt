@@ -1,0 +1,10 @@
+bin\Debug\LogbookHost.exe.config
+bin\Debug\LogbookHost.exe
+bin\Debug\LogbookHost.pdb
+bin\Debug\ContextLogger.dll
+bin\Debug\ContextLogger.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LogbookHost.LogbookHostForm.resources
+obj\Debug\LogbookHost.csproj.GenerateResource.Cache
+obj\Debug\LogbookHost.exe
+obj\Debug\LogbookHost.pdb

@@ -1,0 +1,9 @@
+bin\Debug\MyApp.exe
+bin\Debug\MyApp.pdb
+bin\Debug\MyClassLibrary.dll
+bin\Debug\MyClassLibrary.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MyApp.AppDomainDemo.resources
+obj\Debug\MyApp.csproj.GenerateResource.Cache
+obj\Debug\MyApp.exe
+obj\Debug\MyApp.pdb

@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureApp", "SecureApp\SecureApp.csproj", "{94C47F52-5072-4AC9-9EB2-AE8E96414937}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsEx", "..\WinFormsEx\WinFormsEx.csproj", "{E5766ADC-1C59-42AF-A146-A1501491FD04}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "http://localhost/SecurityServices/", "http://localhost/SecurityServices", "{45889E31-2706-4498-808F-EE1827CF22A9}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/SecurityServices"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\..\inetpub\wwwroot\SecurityServices\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SecurityServices\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "true"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SecurityServices"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\..\inetpub\wwwroot\SecurityServices\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SecurityServices\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "true"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\..\..\..\..\..\..\inetpub\wwwroot\SecurityServices\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed platforms = Debug|Mixed platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed platforms = Release|Mixed platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94C47F52-5072-4AC9-9EB2-AE8E96414937}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{94C47F52-5072-4AC9-9EB2-AE8E96414937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C47F52-5072-4AC9-9EB2-AE8E96414937}.Debug|Mixed platforms.ActiveCfg = Debug|Any CPU
+		{94C47F52-5072-4AC9-9EB2-AE8E96414937}.Debug|Mixed platforms.Build.0 = Debug|Any CPU
+		{94C47F52-5072-4AC9-9EB2-AE8E96414937}.Release|.NET.ActiveCfg = Release|Any CPU
+		{94C47F52-5072-4AC9-9EB2-AE8E96414937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C47F52-5072-4AC9-9EB2-AE8E96414937}.Release|Mixed platforms.ActiveCfg = Release|Any CPU
+		{94C47F52-5072-4AC9-9EB2-AE8E96414937}.Release|Mixed platforms.Build.0 = Release|Any CPU
+		{E5766ADC-1C59-42AF-A146-A1501491FD04}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{E5766ADC-1C59-42AF-A146-A1501491FD04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5766ADC-1C59-42AF-A146-A1501491FD04}.Debug|Mixed platforms.ActiveCfg = Debug|Any CPU
+		{E5766ADC-1C59-42AF-A146-A1501491FD04}.Debug|Mixed platforms.Build.0 = Debug|Any CPU
+		{E5766ADC-1C59-42AF-A146-A1501491FD04}.Release|.NET.ActiveCfg = Release|Any CPU
+		{E5766ADC-1C59-42AF-A146-A1501491FD04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5766ADC-1C59-42AF-A146-A1501491FD04}.Release|Mixed platforms.ActiveCfg = Release|Any CPU
+		{E5766ADC-1C59-42AF-A146-A1501491FD04}.Release|Mixed platforms.Build.0 = Release|Any CPU
+		{45889E31-2706-4498-808F-EE1827CF22A9}.Debug|.NET.ActiveCfg = Debug|.NET
+		{45889E31-2706-4498-808F-EE1827CF22A9}.Debug|.NET.Build.0 = Debug|.NET
+		{45889E31-2706-4498-808F-EE1827CF22A9}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{45889E31-2706-4498-808F-EE1827CF22A9}.Debug|Mixed platforms.ActiveCfg = Debug|.NET
+		{45889E31-2706-4498-808F-EE1827CF22A9}.Debug|Mixed platforms.Build.0 = Debug|.NET
+		{45889E31-2706-4498-808F-EE1827CF22A9}.Release|.NET.ActiveCfg = Debug|.NET
+		{45889E31-2706-4498-808F-EE1827CF22A9}.Release|.NET.Build.0 = Debug|.NET
+		{45889E31-2706-4498-808F-EE1827CF22A9}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{45889E31-2706-4498-808F-EE1827CF22A9}.Release|Mixed platforms.ActiveCfg = Debug|.NET
+		{45889E31-2706-4498-808F-EE1827CF22A9}.Release|Mixed platforms.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

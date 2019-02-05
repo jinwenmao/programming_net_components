@@ -1,0 +1,10 @@
+bin\Debug\TestClient.exe.config
+bin\Debug\TestClient.exe
+bin\Debug\TestClient.pdb
+bin\Debug\ContextLogger.dll
+bin\Debug\ContextLogger.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LogbookDemo.TestClient.resources
+obj\Debug\TestClient.csproj.GenerateResource.Cache
+obj\Debug\TestClient.exe
+obj\Debug\TestClient.pdb

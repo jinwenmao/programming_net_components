@@ -1,0 +1,13 @@
+.\bin\Debug\SecureApp.exe.config
+.\bin\Debug\SecureApp.exe
+.\bin\Debug\SecureApp.pdb
+.\bin\Debug\WinFormsEx.dll
+.\bin\Debug\WinFormsEx.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SecureApp.ChildForm.resources
+obj\Debug\SecureApp.LoginDialog.resources
+obj\Debug\SecureApp.MainForm.resources
+obj\Debug\SecureApp.Properties.Resources.resources
+obj\Debug\SecureApp.csproj.GenerateResource.Cache
+obj\Debug\SecureApp.exe
+obj\Debug\SecureApp.pdb

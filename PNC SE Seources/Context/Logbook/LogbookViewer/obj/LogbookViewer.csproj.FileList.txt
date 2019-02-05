@@ -1,0 +1,11 @@
+bin\Debug\LogbookViewer.exe.config
+bin\Debug\LogbookViewer.exe
+bin\Debug\LogbookViewer.pdb
+bin\Debug\ContextLogger.dll
+bin\Debug\ContextLogger.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LogbookViewer.FileViewer.resources
+obj\Debug\LogbookViewer.LogViewer.resources
+obj\Debug\LogbookViewer.csproj.GenerateResource.Cache
+obj\Debug\LogbookViewer.exe
+obj\Debug\LogbookViewer.pdb

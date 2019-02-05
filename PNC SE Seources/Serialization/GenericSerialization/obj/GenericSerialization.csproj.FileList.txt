@@ -1,0 +1,9 @@
+bin\Debug\GenericSerialization.exe
+bin\Debug\GenericSerialization.pdb
+bin\Debug\SerializationEx.dll
+bin\Debug\SerializationEx.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Serialization.SerializationDemo.resources
+obj\Debug\GenericSerialization.csproj.GenerateResource.Cache
+obj\Debug\GenericSerialization.exe
+obj\Debug\GenericSerialization.pdb

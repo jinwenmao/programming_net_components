@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankAccountServer", "BankAccountServer.csproj", "{1B203D5C-7654-4648-8863-3A8D69E40461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankClient", "..\BankClient\BankClient.csproj", "{F1D8F455-DF6C-4DCA-AC17-43D588E9BCDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1B203D5C-7654-4648-8863-3A8D69E40461}.Debug.ActiveCfg = Debug|.NET
+		{1B203D5C-7654-4648-8863-3A8D69E40461}.Debug.Build.0 = Debug|.NET
+		{1B203D5C-7654-4648-8863-3A8D69E40461}.Release.ActiveCfg = Release|.NET
+		{1B203D5C-7654-4648-8863-3A8D69E40461}.Release.Build.0 = Release|.NET
+		{F1D8F455-DF6C-4DCA-AC17-43D588E9BCDE}.Debug.ActiveCfg = Debug|.NET
+		{F1D8F455-DF6C-4DCA-AC17-43D588E9BCDE}.Debug.Build.0 = Debug|.NET
+		{F1D8F455-DF6C-4DCA-AC17-43D588E9BCDE}.Release.ActiveCfg = Release|.NET
+		{F1D8F455-DF6C-4DCA-AC17-43D588E9BCDE}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

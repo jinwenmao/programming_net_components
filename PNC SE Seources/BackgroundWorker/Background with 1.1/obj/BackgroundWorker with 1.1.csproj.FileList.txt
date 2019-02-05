@@ -1,0 +1,9 @@
+bin\Debug\Background1.1.exe
+bin\Debug\Background1.1.pdb
+bin\Debug\WinFormsEx.dll
+bin\Debug\WinFormsEx.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BackgroundWorkerClient.AsyncClient.resources
+obj\Debug\BackgroundWorker with 1.1.csproj.GenerateResource.Cache
+obj\Debug\Background1.1.exe
+obj\Debug\Background1.1.pdb

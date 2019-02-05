@@ -1,0 +1,9 @@
+bin\Client.exe
+bin\Client.pdb
+bin\ServerAssembly.dll
+bin\ServerAssembly.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Client.Client.ClientForm.resources
+obj\Debug\Client.vbproj.GenerateResource.Cache
+obj\Debug\Client.exe
+obj\Debug\Client.pdb

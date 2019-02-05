@@ -1,0 +1,7 @@
+.\bin\Debug\BackgroundWorkerClient.exe
+.\bin\Debug\BackgroundWorkerClient.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\BackgroundWorkerClient.AsyncClient.resources
+obj\Debug\BackgroundWorkerClient.csproj.GenerateResource.Cache
+obj\Debug\BackgroundWorkerClient.exe
+obj\Debug\BackgroundWorkerClient.pdb

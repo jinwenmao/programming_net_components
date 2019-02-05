@@ -1,0 +1,9 @@
+bin\Debug\BaseSerialization.exe
+bin\Debug\BaseSerialization.pdb
+bin\Debug\SerializationEx.dll
+bin\Debug\SerializationEx.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Serialization.SerializationDemo.resources
+obj\Debug\Base Serialization.csproj.GenerateResource.Cache
+obj\Debug\BaseSerialization.exe
+obj\Debug\BaseSerialization.pdb

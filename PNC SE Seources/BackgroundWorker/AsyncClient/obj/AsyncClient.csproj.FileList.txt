@@ -1,0 +1,7 @@
+bin\Debug\AsyncClient.exe
+bin\Debug\AsyncClient.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\AsyncWinForms.AsyncClient.resources
+obj\Debug\AsyncClient.csproj.GenerateResource.Cache
+obj\Debug\AsyncClient.exe
+obj\Debug\AsyncClient.pdb

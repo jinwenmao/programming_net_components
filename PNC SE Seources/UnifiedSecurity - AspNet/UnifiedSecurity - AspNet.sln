@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureApp", "SecureApp\SecureApp.csproj", "{94C47F52-5072-4AC9-9EB2-AE8E96414937}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsEx", "..\WinFormsEx\WinFormsEx.csproj", "{E6664CAB-505C-46F0-BCDC-6C2AB7DFBDE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed platforms = Debug|Mixed platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed platforms = Release|Mixed platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94C47F52-5072-4AC9-9EB2-AE8E96414937}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{94C47F52-5072-4AC9-9EB2-AE8E96414937}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94C47F52-5072-4AC9-9EB2-AE8E96414937}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94C47F52-5072-4AC9-9EB2-AE8E96414937}.Debug|Mixed platforms.ActiveCfg = Debug|Any CPU
+		{94C47F52-5072-4AC9-9EB2-AE8E96414937}.Debug|Mixed platforms.Build.0 = Debug|Any CPU
+		{94C47F52-5072-4AC9-9EB2-AE8E96414937}.Release|.NET.ActiveCfg = Release|Any CPU
+		{94C47F52-5072-4AC9-9EB2-AE8E96414937}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94C47F52-5072-4AC9-9EB2-AE8E96414937}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94C47F52-5072-4AC9-9EB2-AE8E96414937}.Release|Mixed platforms.ActiveCfg = Release|Any CPU
+		{94C47F52-5072-4AC9-9EB2-AE8E96414937}.Release|Mixed platforms.Build.0 = Release|Any CPU
+		{E6664CAB-505C-46F0-BCDC-6C2AB7DFBDE1}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{E6664CAB-505C-46F0-BCDC-6C2AB7DFBDE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6664CAB-505C-46F0-BCDC-6C2AB7DFBDE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6664CAB-505C-46F0-BCDC-6C2AB7DFBDE1}.Debug|Mixed platforms.ActiveCfg = Debug|Any CPU
+		{E6664CAB-505C-46F0-BCDC-6C2AB7DFBDE1}.Debug|Mixed platforms.Build.0 = Debug|Any CPU
+		{E6664CAB-505C-46F0-BCDC-6C2AB7DFBDE1}.Release|.NET.ActiveCfg = Release|Any CPU
+		{E6664CAB-505C-46F0-BCDC-6C2AB7DFBDE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6664CAB-505C-46F0-BCDC-6C2AB7DFBDE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6664CAB-505C-46F0-BCDC-6C2AB7DFBDE1}.Release|Mixed platforms.ActiveCfg = Release|Any CPU
+		{E6664CAB-505C-46F0-BCDC-6C2AB7DFBDE1}.Release|Mixed platforms.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

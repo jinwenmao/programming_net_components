@@ -1,0 +1,9 @@
+bin\RemoteServerHost.exe
+bin\RemoteServerHost.pdb
+bin\ServerAssembly.dll
+bin\ServerAssembly.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RemoteServerHost.ServerHostDialog.resources
+obj\Debug\RemoteServerHost.vbproj.GenerateResource.Cache
+obj\Debug\RemoteServerHost.exe
+obj\Debug\RemoteServerHost.pdb

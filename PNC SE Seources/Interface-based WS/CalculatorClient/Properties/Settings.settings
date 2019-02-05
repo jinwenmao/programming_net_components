@@ -1,0 +1,20 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WSInterfacesDemo.Properties" GeneratedClassName="Settings">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings>
+    <Setting Name="CalculatorClient_localhost1_SimpleCalculator" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost/CalculationServices/SimpleCalculator.asmx</Value>
+    </Setting>
+    <Setting Name="CalculatorClient_localhost_ICalculator" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost/CalculationServices/ICalculator.asmx</Value>
+    </Setting>
+    <Setting Name="CalculatorClient_localhost_SimpleCalculator" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost/CalculationServices/SimpleCalculator.asmx</Value>
+    </Setting>
+    <Setting Name="CalculatorClient_localhost1_ScientificCalculator" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost/CalculationServices/ScientificCalculator.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
