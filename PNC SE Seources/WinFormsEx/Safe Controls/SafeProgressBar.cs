@@ -1,4 +1,4 @@
-// © 2005 IDesign Inc. All rights reserved 
+// ?2005 IDesign Inc. All rights reserved 
 //Questions? Comments? go to 
 //http://www.idesign.net
 
@@ -11,7 +11,7 @@ namespace WinFormsEx
 	/// <summary>
 	/// Provides thread-safe access to some methods and properties
 	/// </summary>
-#pragma warning disable 1911
+//#pragma warning disable 1911
    [ToolboxBitmap(typeof(SafeProgressBar),"SafeProgressBar.bmp")]
    public class SafeProgressBar : ProgressBar
    {
@@ -53,5 +53,5 @@ namespace WinFormsEx
          }
       }
    }
-   #pragma warning restore 1911
+ //  #pragma warning restore 1911
 }

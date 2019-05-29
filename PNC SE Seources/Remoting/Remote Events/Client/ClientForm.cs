@@ -1,4 +1,4 @@
-// © 2005 IDesign Inc. All rights reserved 
+// ?2005 IDesign Inc. All rights reserved 
 //Questions? Comments? go to 
 //http://www.idesign.net
 
@@ -10,6 +10,17 @@ using RemoteServer;
 
 namespace Client
 {
+    //public class MySubscriber : MarshalByRefObject
+    //{
+    //    //[OneWay]//Makes remote events robust and asynchronous 
+    //    public void OnNewNumber(int num)
+    //    {
+    //        string threadID = Thread.CurrentThread.ManagedThreadId.ToString();
+    //        string appName = AppDomain.CurrentDomain.FriendlyName;
+    //        MessageBox.Show("New Value: " + num.ToString(), appName + " Thread ID: " + threadID.ToString());
+    //    }
+    //}
+
    public class SubscriberForm : Form
    {
       Button m_FireButton;
@@ -112,8 +123,15 @@ namespace Client
       private void OnSubscribe(object sender,EventArgs e)
       {
          m_Publisher.NumberChanged += m_Subscriber.OnNewNumber;
+        // m_Publisher.NumberChanged += new GenericEventHandler<int>(m_Publisher_NumberChanged);
          m_SubscribeButton.Enabled = false;
          m_UnsubscribeButton.Enabled = true;;
+      }
+
+      void m_Publisher_NumberChanged(int t)
+      {
+          MessageBox.Show("ttttt");
+          throw new NotImplementedException();
       }
    }
 }

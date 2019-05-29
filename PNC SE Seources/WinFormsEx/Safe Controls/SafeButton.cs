@@ -1,4 +1,4 @@
-// © 2005 IDesign Inc. All rights reserved 
+// ?2005 IDesign Inc. All rights reserved 
 //Questions? Comments? go to 
 //http://www.idesign.net
 
@@ -12,7 +12,7 @@ namespace WinFormsEx
 	/// Provides thread-safe enabling of the button
 	/// </summary>
    [ToolboxBitmap(typeof(SafeButton),"SafeButton.bmp")]
-#pragma warning disable 1911
+//#pragma warning disable 1911
    public class SafeButton : Button
    {
       delegate void SetBoolean(bool enabled);
@@ -62,5 +62,5 @@ namespace WinFormsEx
          }
       }
    }
-#pragma warning restore 1911
+//#pragma warning restore 1911
 }

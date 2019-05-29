@@ -1,4 +1,4 @@
-// © 2005 IDesign Inc. All rights reserved 
+// ?2005 IDesign Inc. All rights reserved 
 //Questions? Comments? go to 
 //http://www.idesign.net
 
@@ -194,12 +194,14 @@ namespace Client
             if(m_ServerRadio.Checked)
             {
                //Server activation over TCP. Note object URI
-               return "tcp://localhost:8005/CounterServer";
+              // return "tcp://localhost:8005/CounterServer";
+               return "tcp://10.10.10.20:8005/CounterServer";
             }
             else
             {
                //Client activation over tcp
-               return "tcp://localhost:8005";
+               //return "tcp://localhost:8005";
+                return "tcp://10.10.10.20:8005";
             }
          }
          if(m_HttpRadio.Checked)//http channel 
@@ -207,12 +209,14 @@ namespace Client
             if(m_ServerRadio.Checked)
             {
                //Server activation over http. Note object URI
-               return "http://localhost:8006/CounterServer";
+              ///// //return "http://localhost:8006/CounterServer";
+                return "http://10.10.10.20:8006/CounterServer";
             }
             else
             {
                //Client activation over http
-               return "http://localhost:8006";
+              ////// return "http://localhost:8006";
+                return "http://10.10.10.20:8006";
             }
          }
          else//IPC channel 

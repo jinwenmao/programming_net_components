@@ -1,4 +1,4 @@
-// © 2005 IDesign Inc. All rights reserved 
+// ?2005 IDesign Inc. All rights reserved 
 //Questions? Comments? go to 
 //http://www.idesign.net
 
@@ -11,7 +11,7 @@ namespace WinFormsEx
    /// <summary>
    /// Provides thread-safe access to the Text property
    /// </summary>
-#pragma warning disable 1911
+//#pragma warning disable 1911
   [ToolboxBitmap(typeof(SafeLabel),"SafeLabel.bmp")]
    public class SafeLabel : Label
    {
@@ -66,5 +66,5 @@ namespace WinFormsEx
          }
       }
    }
-   #pragma warning restore 1911
+ //  #pragma warning restore 1911
 }
